@@ -22,5 +22,7 @@ These can then be converted into PNG files en masse with the command:
 
     inkscape -z -e Destination.png Source.svg -d 400
 
+![Ballard-Georgetown](Ballard-Georgetown.png)
+
 ## Train cards: to be continued
 For now, you'll have to use an already-existant deck.
