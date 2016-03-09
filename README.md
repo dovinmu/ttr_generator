@@ -11,7 +11,8 @@ Used Stamen Design's [watercolor maps](http://maps.stamen.com/#watercolor/) to r
 
 Opened up the .svg file and segmented it into a 'prefix' file (everything that comes before the markers, name and score), suffix (everything that comes after), name (the code for the name box with the place for the name held by the text 'NAME') and score (same as for name but with the text 'SCORE'). I also created a json file that details each destination in the following format:
 
-    'Name (as it appears in the svg)':{'indegree':integer, 'neigh':['neigh1',...], 'name':'(if it differs from the svg name)'}
+    'Name (as it appears in the svg)':{'indegree':integer, 'neigh':['neigh1',...],
+           'name':'(if it differs from the svg name)'}
 
 Then I ran the generator function in the script, which generates a random subset of the possible pairs of destinations. 
 
