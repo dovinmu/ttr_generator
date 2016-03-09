@@ -74,3 +74,6 @@ def findRouteLength(start, stop, routes):
             dist[leaf] = distCount
     print(start, stop)
     return None
+
+if __name__ == "__main__":
+    generate_cards()
