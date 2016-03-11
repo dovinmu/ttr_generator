@@ -76,7 +76,7 @@
        fx="176.69226"
        fy="760.50439"
        r="17.080078"
-       gradientTransform="matrix(1,0,0,0.66423671,-942.02173,-335.3684)"
+       gradientTransform="matrix(1,0,0,0.66423671,-154.24669,519.64607)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -438,18 +438,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.5678805"
-     inkscape:cx="69.676751"
-     inkscape:cy="197.80314"
+     inkscape:zoom="1.6289481"
+     inkscape:cx="-50.490092"
+     inkscape:cy="159.39451"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1179"
-     inkscape:window-height="1028"
-     inkscape:window-x="75"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -525,7 +525,7 @@
        id="rect14860"
        width="201.67468"
        height="314.53186"
-       x="-4.3062701"
+       x="-0.30627012"
        y="737.31519"
        ry="12.821799" />
     <g
@@ -568,45 +568,50 @@
          style="fill:#5f8dd3;fill-opacity:1;stroke:none;stroke-width:1.16799998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <rect
-       style="fill:#a5db96;fill-rule:evenodd;stroke:#000000;stroke-width:0.863;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#a5db96;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6648438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4352"
-       width="23.589567"
-       height="272.85248"
-       x="2.0315576"
-       y="758.2514"
-       ry="1.0309439" />
+       width="20.205225"
+       height="189.06097"
+       x="746.61963"
+       y="-194.14746"
+       ry="0.71434665"
+       transform="matrix(0,1,-1,0,0,0)">
+      <title
+         id="title4269">TITLE_RECT</title>
+    </rect>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-997.79541"
-       y="20.745365"
+       x="10.767839"
+       y="761.85413"
        id="text14979"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan14981"
-         x="-997.79541"
-         y="20.745365"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Capitol Hill - Fremont</tspan></text>
+         x="10.767839"
+         y="761.85413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">NAME</tspan></text>
     <circle
-       style="fill:#a5db96;fill-opacity:1;stroke:#000000;stroke-width:0.909;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#a5db96;fill-opacity:1;stroke:#000000;stroke-width:0.90899998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4354"
-       cx="169.90134"
-       cy="764.39703"
-       r="22.597544" />
+       cx="23.815052"
+       cy="1025.1233"
+       r="22.597544">
+      <title
+         id="title4267">SCORE_CIRCLE</title>
+    </circle>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#radialGradient4366);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-784.44568"
-       y="180.70694"
+       x="3.3293638"
+       y="1035.7214"
        id="text4356"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4358"
-         x="-784.44568"
-         y="180.70694"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:url(#radialGradient4366)">20</tspan></text>
+         x="3.3293638"
+         y="1035.7214"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:url(#radialGradient4366)">NUMBER</tspan></text>
     <circle
        style="opacity:1;fill:url(#radialGradient4388);fill-opacity:1;stroke:none;stroke-width:0.61299998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4376"

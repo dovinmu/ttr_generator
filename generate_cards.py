@@ -76,4 +76,4 @@ def findRouteLength(start, stop, routes):
     return None
 
 if __name__ == "__main__":
-    generate_cards()
+    generateCards()
