@@ -19,7 +19,7 @@ def generateCards():
         for result2 in sample:
             route = (resultSet[i], result2)
             routeNames = (route[0].text.strip(), route[1].text.strip())
-            print(routeNames)
+            print(' ==> '.join(routeNames))
             num = findRouteLength(routeNames[0].replace(' ',''),
                 routeNames[1].replace(' ',''), routes)
             if num < 3:

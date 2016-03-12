@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765.00001 990.00002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="print_layout.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="331.2995"
+     inkscape:cy="583.07132"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     units="in"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+    <sodipodi:guide
+       position="720.00001,900.00002"
+       orientation="1,0"
+       id="guide4138" />
+    <sodipodi:guide
+       position="45.003907,1007.4922"
+       orientation="1,0"
+       id="guide4140" />
+    <sodipodi:guide
+       position="286,945.00002"
+       orientation="0,1"
+       id="guide4142" />
+    <sodipodi:guide
+       position="376.00404,44.945476"
+       orientation="0,1"
+       id="guide4144" />
+    <sodipodi:guide
+       position="719.99999,638.50001"
+       orientation="0,1"
+       id="guide4259" />
+    <sodipodi:guide
+       position="229.64391,333.44549"
+       orientation="0,1"
+       id="guide4261" />
+    <sodipodi:guide
+       position="340.11836,656.1951"
+       orientation="0,1"
+       id="guide4263" />
+    <sodipodi:guide
+       position="472.08471,350"
+       orientation="0,1"
+       id="guide4265" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362175)">
+    <image
+       y="107.36217"
+       x="45.003906"
+       id="image4154"
+       xlink:href="data:image/png;base64,BYTES1"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="107.36217"
+       x="288"
+       id="image4154-2-0"
+       xlink:href="data:image/png;base64,BYTES2"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="107.36217"
+       x="535.35999"
+       id="image4154-2"
+       xlink:href="data:image/png;base64,BYTES3"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="413.86218"
+       x="45.003906"
+       id="image4154-1"
+       xlink:href="data:image/png;base64,BYTES4"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+   <image
+       y="413.86218"
+       x="288"
+       id="image4154-2-0-3"
+       xlink:href="data:image/png;base64,BYTES5"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="413.86218"
+       x="535.35999"
+       id="image4154-2-8"
+       xlink:href="data:image/png;base64,BYTES6"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="718.91669"
+       x="45.003906"
+       id="image4154-1-4"
+       xlink:href="data:image/png;base64,BYTES7"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="718.91669"
+       x="288"
+       id="image4154-2-0-3-5"
+       xlink:href="data:image/png;base64,BYTES8"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+    <image
+       y="718.91669"
+       x="535.35999"
+       id="image4154-2-8-1"
+       xlink:href="data:image/png;base64,BYTES9"
+       preserveAspectRatio="none"
+       height="288.5"
+       width="184.64" />
+  </g>
+</svg>
