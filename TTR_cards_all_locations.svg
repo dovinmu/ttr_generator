@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -437,9 +438,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40723703"
-     inkscape:cx="-120.94809"
-     inkscape:cy="34.871257"
+     inkscape:zoom="4.607361"
+     inkscape:cx="68.520803"
+     inkscape:cy="249.15785"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -503,20 +504,20 @@
       <title
          id="title4267">SCORE_CIRCLE</title>
     </circle>
-<!--end prefix-->
+    <!--end prefix-->
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="10.767839"
+       x="8.7678394"
        y="761.85413"
        id="text14979"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan14981"
-         x="10.767839"
+         x="8.7678394"
          y="761.85413"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">NAME</tspan></text>
-<!--end name-->
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.125px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">NAME</tspan></text>
+    <!--end name-->
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#radialGradient4366);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -529,7 +530,7 @@
          x="3.3293638"
          y="1035.7214"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:url(#radialGradient4366)">NUMBER</tspan></text>
-<!--end number-->
+    <!--end number-->
     <circle
        style="opacity:1;fill:url(#radialGradient4388);fill-opacity:1;stroke:none;stroke-width:0.61299998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4376"
@@ -818,6 +819,6 @@
       <title
          id="title4414-9-3-1-7-5-7">Leschi</title>
     </circle>
-<!--end destinations-->
+    <!--end destinations-->
   </g>
 </svg>

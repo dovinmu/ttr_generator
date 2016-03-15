@@ -37,6 +37,14 @@ def generateCards():
                 name1 = routes[name1]['name']
             if 'name' in routes[name2]:
                 name2 = routes[name2]['name']
+            if len(name1) + len(name2) > 23:
+                if 'abbreviation' in routes[routeNames[0]]:
+                    name1 = routes[routeNames[0]]['abbreviation']
+            if len(name1) + len(name2) > 23:
+                if 'abbreviation' in routes[routeNames[1]]:
+                    name2 = routes[routeNames[1]]['abbreviation']
+            if len(name1) + len(name2) > 23:
+                print('Could not sufficiently abbreviate {}'.format(routeNames))
     #TODO: abbreviate long names
             name_output = name_geom.replace('NAME', name1 + ' - ' + name2)
             num = str(num)

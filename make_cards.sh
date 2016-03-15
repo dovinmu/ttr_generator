@@ -8,6 +8,7 @@ do
 done
 cd ..
 python layout_cards.py
+rm cards/*
 cd layouts
 for filename in *.svg
 do
