@@ -16,6 +16,3 @@ You can change the design in the master .svg and then run the script to generate
 Here's an image of a prototype of the card (there's still a bit of polishing left to do on the edges):
 
 ![Ballard-Georgetown](Ballard-Georgetown.png)
-
-## Train cards: to be continued
-For now, you'll have to use an already-existant deck.
